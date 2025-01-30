@@ -2,6 +2,7 @@
 Sou apaixonado por Ciência de Dados! 📊✨
 
 🎯 Atualmente, estou explorando ferramentas e linguagens de programação com foco em análise e visualização de dados.
+
 🚀 Meu objetivo é me tornar um profissional de ciência de dados de alto nível, evoluindo constantemente e entregando insights impactantes
 
 Neste portfólio, você encontrará projetos que desenvolvi ao longo da minha jornada de aprendizado. Eles incluem o uso de bibliotecas como pandas, matplotlib, seaborn e também aplicações com Machine Learning e Processamento de Linguagem Natural. 
