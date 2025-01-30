@@ -1,6 +1,6 @@
 <h3> Olá, pessoal 👋</h3>
 
-Sou apaixonado por Ciência de Dados! 📊✨
+Sou apaixonado por Ciência de Dados e como ela pode transformar o mundo ao revelar padrões ocultos, prever o futuro e ajudar a resolver problemas complexos! 📊✨
 
 🎯 Atualmente, estou explorando ferramentas e linguagens de programação com foco em análise e visualização de dados.
 
